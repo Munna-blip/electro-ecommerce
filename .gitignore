@@ -16,3 +16,6 @@ frontend/.env
 # OS
 .DS_Store
 Thumbs.db
+
+#    Git access Token 
+#    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
